@@ -10,5 +10,5 @@ Main Program:
 
 [中文版](https://1drv.ms/u/s!AvhWNtOlt0Aj3xDtzVgMqrU6VzIo)(Last Updated: 20180720)
 
-[English Ver](https://1drv.ms/u/s!AvhWNtOlt0Aj3xKT7m_37UYZ6D25)(Last Updated: 20180721)
+[English Ver](https://1drv.ms/u/s!AvhWNtOlt0Aj3xNJ-RGMkJl1Xmw5)(Last Updated: 20180721)
 
