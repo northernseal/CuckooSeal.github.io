@@ -10,8 +10,7 @@ Try the offical installer provided by National Instrument(~320 MB):
 
 [Labview Offical RTE](http://download.ni.com/support/softlib/labview/labview_runtime/2018/Windows/f1/LVRTE2018_f1Patch-64std.exe)
 
-Main Program:
-
+**Main Program:
 
 [中文版](https://1drv.ms/u/s!AvhWNtOlt0Aj3xDtzVgMqrU6VzIo)(Last Updated: 20180720)
 
