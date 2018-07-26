@@ -12,4 +12,4 @@ Main Program:
 
 [English Ver](https://1drv.ms/u/s!AvhWNtOlt0Aj3xW-q3IjumvusKjk)(Last Updated: 20180726)
 
-* We sujjest you use 7-Zip to Unzip the files provided above  
+* We suggest you use 7-Zip to Unzip the files provided above  
