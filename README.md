@@ -13,8 +13,9 @@ Main Program:
 
 * We suggest you use 7-Zip to Unzip the files provided above  
 
-For those who have issues regarding UI mismatching /incomplete string box,
+<!--For those who have issues regarding UI mismatching /incomplete string box,
 Try the offical installer provided by National Instrument(~320 MB):
 [Labview Offical RTE](http://download.ni.com/support/softlib/labview/labview_runtime/2018/Windows/f1/LVRTE2018_f1Patch-64std.exe)
+-->
 
 
