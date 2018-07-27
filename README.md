@@ -9,7 +9,7 @@ Main Program:
 
 [中文版](https://1drv.ms/u/s!AvhWNtOlt0Aj3xDtzVgMqrU6VzIo)(Last Updated: 20180720)
 
-[English Ver](https://1drv.ms/u/s!AvhWNtOlt0Aj3xW-q3IjumvusKjk)(Last Updated: 20180726)
+[English Ver](https://1drv.ms/u/s!AvhWNtOlt0Aj3xff6MkqAlj_5lNe)(Last Updated: 20180727)
 
 * We suggest you use 7-Zip to Unzip the files provided above  
 
